@@ -1,1 +1,4 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+這本書可能沒甚麼篇章，每一篇都是個短篇，記錄我工作時碰到的相關專業問題。可能會有debug技巧；也可能會有各種程式語言的眉眉角角；但更多的應該是我覺得值得記錄下來的事。
+
+每一篇的背景幾乎都是Linux，若是在別的平台上我會特別加註。
+
